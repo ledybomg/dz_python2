@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Ivan",
+    "surname": "Urgant",
+    "patronymic": "Nikolayevich",
+    "birth_date": "3.09.1980",
+    "phone_number": "89211192288",
+    "email": "real_Urgant_80@mail.ru"
+  },
+  {
+    "id": 2,
+    "name": "Anton",
+    "surname": "Berezutsky",
+    "patronymic": "Olegovich",
+    "birth_date": "6.12.1974",
+    "phone_number": "89117541222",
+    "email": "kreeper_cool_76@yandex.ru"
+  },
+  {
+    "id": 3,
+    "name": "Maryia",
+    "surname": "Ivanova",
+    "patronymic": "Ivanovna",
+    "birth_date": "23.02.1997",
+    "phone_number": "89852314501",
+    "email": "Mashka_boom@odnoklassniki.ru"
+  },
+  {
+    "id": 4,
+    "name": "Igor",
+    "surname": "Krutoy",
+    "patronymic": "Igorivich",
+    "birth_date": "19.05.1997",
+    "phone_number": "88123414444",
+    "email": "coolIgor@gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Irina",
+    "surname": "Petuhova",
+    "patronymic": "Nikitichna",
+    "birth_date": "25.07.1956",
+    "phone_number": "89313330507",
+    "email": "vashaIrochka56@rambler.ru"
+  },
+  {
+    "id": 6,
+    "name": "Alena",
+    "surname": "Izmailova",
+    "patronymic": "Sergeevna",
+    "birth_date": "31.12.2003",
+    "phone_number": "88005553535",
+    "email": "proschePozvonit_chem_na_email_napisat@hotmail.com"
+  }
+]
